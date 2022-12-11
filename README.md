@@ -1,1 +1,1 @@
-# Renewable-Energy-Project-REC-
+# Renewable Energy Project (REC)

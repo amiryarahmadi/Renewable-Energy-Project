@@ -1,4 +1,4 @@
-# Renewable Energy Project (REC)
+# Renewable Energy Project (REP)
 We are trying to calculate the usage energy in aim to compare it with solar cells capacity.
 
 The project is hosted on GitHub. Get a copy by running:
